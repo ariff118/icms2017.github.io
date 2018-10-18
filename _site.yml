@@ -1,0 +1,32 @@
+name: "iCMS 2017 & uRos 2017"
+output_dir: "."
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: home.html
+    - text: "Call for Papers"
+      href: callforpapers.html
+    - text: "Track"
+      href: track.html
+    - text: "Speaker"
+      href: speaker.html
+    - text: "Publication"
+      href: publication.html
+    - text: "Registration"
+      href: registration.html
+    - text: "Workshop"
+      href: workshop.html
+    - text: "Fees & Payments"
+      href: fees_payments.html
+    - text: "Committee"
+      href: committee.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/ariff118/
+output:
+  html_document:
+    theme: sandstone
+    css: 'styles.css'
