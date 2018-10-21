@@ -1,0 +1,28 @@
+---
+
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Contact Us  
+
+E-mail:	
+    icms2017@icmskdh.net  
+    
+Phone	:	
+    +604-456 2506 (Assoc. Prof. Dr Kor Liew Kee)  
+    +604-456 2406 (Ms Ashmahani Nayan)  
+    
+Address:  
+    Secretariat iCMS2017  
+    Faculty of Computer & Mathematical Sciences  
+    Universiti Teknologi MARA Kedah Branch,  
+    Sungai Petani Campus  
+    08400 Merbok  
+    KEDAH, MALAYSIA  
+
+<br/>
+
+[Main Page](https://ariff118.github.io/icms2017.github.io/)
+
+
