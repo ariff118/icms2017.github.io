@@ -37,7 +37,7 @@ The Faculty of Computer and Mathematical Sciences of Universiti Teknologi MARA K
 ### iCMS2017
 The conference was originally one of the flagship conferences under the previously known International Conference of Art, Science and Technology which had been successfully organized in 2010 and 2012. Building on the success of these two conferences, the organizers decided to hold a more focused conference. Now running for the 3rd time, iCMS2017 is a catalyst for researchers to present their ideas that will bring the three different fields of computer science, mathematics and statistics together and bridge the gap by giving them the opportunity to gain insights into new areas and new perspectives to their respective fields.
  
-### UROS2017 – Asia Pacific  
+### uRos2017 – Asia Pacific  
 The conference provides a platform for a public forum for researchers from academia and industries to present, exchange ideas and discuss developments in state-of-the-art statistical software commonly used in research. The most focused debates are expected to be the use of R in official Statistics.  
   
   
